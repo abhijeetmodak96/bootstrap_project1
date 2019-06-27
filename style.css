@@ -1,0 +1,28 @@
+body{
+  background: #403B4A;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #E7E9BB, #403B4A);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #E7E9BB, #403B4A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+font-family: 'Sawarabi Mincho', sans-serif;
+}
+
+.hero{
+  color: #00008B ;
+  margin-top: 5%;
+  text-align: center;
+  font-size: 65px;
+  letter-spacing: -.05em;
+
+}
+.ima{
+  height: 350px;
+}
+.footer{
+  background-color: #add8e6;
+  fixed;
+  padding: -0.5px -0.5px;
+  margin: 2px 2px;
+  border: 1.5px solid blue;
+}
+.border{
+  border: 2px solid grey;
+}
